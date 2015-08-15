@@ -1,2 +1,0 @@
-# servicetest
-testing the service
